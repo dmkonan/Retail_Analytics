@@ -139,3 +139,4 @@ customer_data$Cluster <- as.factor(kmeans_result$cluster)
 
 - [Data Cleaning Notebook (Python)](SalesData_Cleaning.ipynb)  
 - [Customer Segmentation Script (R)](Sales_Data_Clustering.R)
+- [Interactive Power BI Dashboard](Retail_data_Visualization-2.pbix)
