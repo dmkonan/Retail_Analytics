@@ -3,8 +3,9 @@
 # Retail Insights Analytics 
 Data-driven analysis of retail sales data to uncover patterns, segment customers, and drive business strategy through actionable insights.
 
-**Dataset:** Retail Insights: A Comprehensive Sales Dataset  
-**Source:** [Kaggle Dataset](https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset/data)
+---
+### Dataset: Retail Insights: A Comprehensive Sales Dataset  
+### Source: [Kaggle Dataset](https://www.kaggle.com/datasets/rajneesh231/retail-insights-a-comprehensive-sales-dataset/data)
 ---
 ##  Table of Contents
 
@@ -24,7 +25,7 @@ Data-driven analysis of retail sales data to uncover patterns, segment customers
     - [2. K-Means Clustering](#2-k-means-clustering)
   - [Cluster Insights](#cluster-insights)
 
-- [🔗 Links to Code](#-links-to-code)
+- [Links to Code](#links-to-code)
 ---
 ## Part 1: Sales Performance Analysis
 
@@ -135,7 +136,7 @@ customer_data$Cluster <- as.factor(kmeans_result$cluster)
 
 ---
 
-## 🔗 Links to Code
+## Links to Code
 
 - [Data Cleaning Notebook (Python)](SalesData_Cleaning.ipynb)  
 - [Customer Segmentation Script (R)](Sales_Data_Clustering.R)
